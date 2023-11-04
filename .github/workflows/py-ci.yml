@@ -2,8 +2,7 @@ name: Python CI/CD
 
    on:
      push:
-       branches:
-         - main  # Change this to your default branch
+       branches: [ main ]
 
    jobs:
      build:
