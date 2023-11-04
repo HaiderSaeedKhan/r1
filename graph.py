@@ -9,3 +9,5 @@ plt.xlabel('x')
 plt.ylabel('y')
 plt.legend()
 plt.show()
+
+print("Success")
